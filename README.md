@@ -57,7 +57,8 @@
 
 #### Исправление ошибок
 Исправим ошибку `E265` и одну `E501`:
-<img width="1301" alt="Снимок экрана 2023-01-26 в 12 05 42" src="https://user-images.githubusercontent.com/43503189/214797201-062ac7e1-d7b3-47cc-84f6-2af2b1d1eb72.png">
-<img width="1301" alt="Снимок экрана 2023-01-26 в 12 06 19" src="https://user-images.githubusercontent.com/43503189/214797294-eec255cf-66de-4ad6-a389-366678820122.png">
+<img width="1264" alt="Снимок экрана 2023-01-26 в 12 10 37" src="https://user-images.githubusercontent.com/43503189/214798182-dcf3ad83-aeb4-4f0b-8630-30f05cca9b86.png">
+<img width="1264" alt="Снимок экрана 2023-01-26 в 12 10 57" src="https://user-images.githubusercontent.com/43503189/214798247-344e89bf-e085-4d43-8ea1-91d00bd80dfe.png">
+
 
 
