@@ -60,5 +60,7 @@
 <img width="1264" alt="Снимок экрана 2023-01-26 в 12 10 37" src="https://user-images.githubusercontent.com/43503189/214798182-dcf3ad83-aeb4-4f0b-8630-30f05cca9b86.png">
 <img width="1264" alt="Снимок экрана 2023-01-26 в 12 10 57" src="https://user-images.githubusercontent.com/43503189/214798247-344e89bf-e085-4d43-8ea1-91d00bd80dfe.png">
 
-
+Исправим ошибку `E303`:
+<img width="1266" alt="Снимок экрана 2023-01-26 в 12 13 12" src="https://user-images.githubusercontent.com/43503189/214798648-fc77c691-503a-488a-8391-d2010316415b.png">
+<img width="1266" alt="Снимок экрана 2023-01-26 в 12 13 27" src="https://user-images.githubusercontent.com/43503189/214798682-af14a54a-9ec7-4930-add5-d9787072f5d0.png">
 
