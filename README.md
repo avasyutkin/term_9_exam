@@ -64,3 +64,7 @@
 <img width="1266" alt="Снимок экрана 2023-01-26 в 12 13 12" src="https://user-images.githubusercontent.com/43503189/214798648-fc77c691-503a-488a-8391-d2010316415b.png">
 <img width="1266" alt="Снимок экрана 2023-01-26 в 12 13 27" src="https://user-images.githubusercontent.com/43503189/214798682-af14a54a-9ec7-4930-add5-d9787072f5d0.png">
 
+Исправим ошибку `E225`:
+<img width="1266" alt="Снимок экрана 2023-01-26 в 12 16 24" src="https://user-images.githubusercontent.com/43503189/214799212-04ae6beb-6c00-4ea3-970b-3cc1b293d6ad.png">
+<img width="1266" alt="Снимок экрана 2023-01-26 в 12 16 37" src="https://user-images.githubusercontent.com/43503189/214799251-e4ec183d-2fc2-4dda-8650-723cc97304a4.png">
+
