@@ -9,9 +9,9 @@
 
 2. Делаем импорт фреймворка для модульного тестирования и файла `main` с реализацией тестируемой функции:
    ``` 
-  import unittest
-  import main
-  ``` 
+   import unittest
+   import main
+   ```
 
 3. Создаем класс `VasyutkinTestCase` и в нем определяем функции для тестирования, например `def test_positive(self)`
 
